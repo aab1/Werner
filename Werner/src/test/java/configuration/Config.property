@@ -1,0 +1,9 @@
+ChromeDriver = ./lib/browser/chromedriver.exe
+FirefoxDriver = ./lib/browser/geckodriver.exe
+InternetExplorerDriver = ./lib/browser/IEDriverServer.exe
+
+
+URL-ignore = https://www.safe-guardproducts.com/
+
+URL = https://www.google.com/
+
